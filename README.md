@@ -1,5 +1,5 @@
 # Laravel blog
-Platforma blogowa zbudowana w oparciu o framework Laravel, zaprojektowana z myślą o wydajności, bezpieczeństwie i komforcie użytkownika. Projekt łączy nowoczesny backend z interaktywnym frontendem, oferując kompletny system zarządzania treścią i społecznością.
+Aplikacja webowa typu blog/platforma społecznościowa, zbudowana w oparciu o framework Laravel. Projekt oferuje pełne zarządzanie treścią, zaawansowane filtrowanie oraz interaktywny interfejs użytkownika.
 
 ## Kluczowe Funkcjonalności
 ### Zarządzanie Treścią (CRUD)
